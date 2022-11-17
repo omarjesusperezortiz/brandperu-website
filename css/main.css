@@ -8,13 +8,15 @@ body {
 
 header {
   position: absolute;
-  display: inline-block;
+  display: flex;
   width: 100%;
   vertical-align: middle;
   margin: 0;
   padding: 1em 4em;
   z-index: 110;
   box-sizing: border-box;
+  max-width: 1600px !important;
+  justify-content: space-between;
 }
 header .content-header {
   width: 100%;
