@@ -13,10 +13,6 @@
 
 ---
 
-<h2 align="center">
-<img width="500px" src="https://github.com/omarjesusperezortiz/circle-project/blob/main/media/figmapreview.png" alt="taskgif">
-</h2>
-
 <h3>Web Development</h3>
 
 https://omarjesusperezortiz.github.io/brandperu-website/
